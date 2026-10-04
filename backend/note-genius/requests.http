@@ -1,0 +1,7 @@
+POST http://localhost:8080/notes
+Content-Type: application/json
+
+{
+  "title": "Java Basics",
+  "content": "Learning Spring Boot and REST APIs."
+}
